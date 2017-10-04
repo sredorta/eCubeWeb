@@ -17,7 +17,7 @@ requirejs.config({
 
 // Start the main app logic.
 requirejs(['jquery'], function ($) {*/
-$(document).ready(function(){    
+$(document).ready(function(){    //test
 //------------------------------------------------------------------------------
 //  Exmple definition for widget pluggins
 //------------------------------------------------------------------------------
